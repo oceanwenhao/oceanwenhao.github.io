@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Wenhao Wang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -83,7 +83,7 @@ author:
   name             : "Wenhao Wang"
   avatar           : "wenhaowang.png"
   bio              : "Exploring trace metal isotopes"
-  location         : "Wien, AT"
+  location         : "Vienna, Austria"
   employer         :
   pubmed           :  # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://scholar.google.com/citations?user=aZi_2NkAAAAJ&hl"
