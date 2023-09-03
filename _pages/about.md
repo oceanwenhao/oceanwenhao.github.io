@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Wenhao Wang (王文昊)"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
