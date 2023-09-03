@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wenhao Wang"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Wenhao Wang"
-  avatar           : "wenhaowang.png"
+  avatar           : "wenhaowang1.png"
   bio              : "Exploring trace metal isotopes"
   location         : "Vienna, Austria"
   employer         :
