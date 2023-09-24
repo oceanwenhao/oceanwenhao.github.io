@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-
+<bp>
 <b>Wang, W.</b>, Dickson, A., Dellinger, M., Burton, K., Clark, D., Helgi Eggertsson, G., Einarsdóttir, Í.E., Hilton, R., Ingimarsson, H., Gebrehiwot Mesfin, K., Prytulak, J. (in preparation) <i>Large rhenium isotope fractionation in Icelandic groundwaters and hydrothermal systems.</i> 
 
 Mellett T., Albers J.B., Santoro A.E., Salaun P., Resing J., <b>Wang W.</b>, Lough A.J.M., Tagliabue A., Lohan M., Bundy R.M., Buck K.N. (in review) <i>Organic iron-binding ligands mediate dissolved-particulate  exchange  in hydrothermal vent plumes along the mid-Atlantic Ridge.</i> Global Biogeochemical Cycles.
