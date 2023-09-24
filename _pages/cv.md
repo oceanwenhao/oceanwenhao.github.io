@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<iframe src='assets/WW_CV_2023(1).pdf' width="100%" height="600 px" />
+<iframe src='/assets/WW_CV_2023(1).pdf' width="100%" height="600 px" />
 </html>
 {% include base_path %}
 
