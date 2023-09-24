@@ -14,4 +14,4 @@ I consider myself as a trace metal geochemist; I am interested in applying stabl
 Contact me
 ------
 Current address: Department of Environmental Geosciences, University of Vienna, 1090 Wien, Austria
-E-mail: [wenhao.wang@univie.ac.at](mailto:wenhao.wang@univie.ac.at) (current); [ww1n15@southamptonalumni.ac.uk](mailto:ww1n15@southamptonalumni.ac.uk) (permanent) 
+<br>E-mail: [wenhao.wang@univie.ac.at](mailto:wenhao.wang@univie.ac.at) (current); <br>[ww1n15@southamptonalumni.ac.uk](mailto:ww1n15@southamptonalumni.ac.uk) (permanent) 
