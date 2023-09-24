@@ -6,8 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-</html>
- <iframe src="WW_CV_2023.pdf" width="100%" height="100%" />
+
+<iframe src="WW_CV_2023(1).pdf" width="100%" height="600 px" />
 </html>
 {% include base_path %}
 
