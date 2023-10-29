@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I have been trained to be a trace metal geochemist; I am interested in applying novel isotope tools to the studies of oceanic processes. I took part in several exciting collaborative researches including tracing hydrothermal input of iron to the oceans using iron isotopes, investigating chromium biogeochemical cycle in various environments, as well as assessing stable rhenium isotopes as paleo proxy. I have been working proactively in the GEOTRACES and the isotope geochemistry community. I obtained my PhD at the National Oceanography Centre, University of Southampton (advisor: Prof. Rachal James), pursued a postdoc at Royal Holloway University of London and am currently undertaking a Marie Curie postdoctoral fellowship at the University of Vienna.
+I have been trained to be a trace metal geochemist; I am interested in applying novel isotope tools to the studies of oceanic processes. I took part in several exciting collaborative researches including e.g., tracing hydrothermal input of iron to the oceans using iron isotopes, exploring chromium biogeochemical cycle in various environments, as well as assessing stable rhenium isotopes as paleo proxy. I have been working proactively within the GEOTRACES and the isotope geochemistry community. I obtained my PhD at the National Oceanography Centre, University of Southampton (advisor: Prof. Rachael James), pursued a postdoc at Royal Holloway University of London and am currently undertaking a Marie Curie postdoctoral fellowship at the University of Vienna.
 
 
 Contact me
