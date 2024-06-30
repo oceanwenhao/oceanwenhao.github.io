@@ -12,7 +12,7 @@ I am trained to be a trace metal geochemist; I am interested in applying novel i
 <br>
 <br>I have been working proactively within the GEOTRACES and the isotope geochemistry community. I obtained my PhD at the National Oceanography Centre, University of Southampton (advisor: Prof. Rachael James), pursued a postdoc at Royal Holloway University of London and am currently undertaking a Marie Curie postdoctoral fellowship at the University of Vienna. I will be joining Sun Yat-sun University for a tenure-track position in 2024.
 <br>
-Follow me on twitter [@oceanwenhao](https://x.com/oceanwenhao) for more updates :) 
+<br>Follow me on twitter [@oceanwenhao](https://x.com/oceanwenhao) for more updates :) 
 
 Contact me
 ------
