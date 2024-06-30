@@ -8,7 +8,6 @@ author_profile: true
 <br>
 <b>Wang, W.</b>, Dickson, A., Dellinger, M., Burton, K., Clark, D., Helgi Eggertsson, G., Einarsdóttir, Í.E., Hilton, R., Ingimarsson, H., Gebrehiwot Mesfin, K., Prytulak, J. (In review) <i>Rhenium isotope variations in Icelandic groundwaters and hydrothermal systems.</i> Earth and Planetary Science Letters.
 
-<br>
 Mellett T., Albers J.B., Santoro A.E., Salaun P., Resing J., <b>Wang W.</b>, Lough A.J.M., Tagliabue A., Lohan M., Bundy R.M., Buck K.N. (In review) <i>Organic iron-binding ligands mediate dissolved-particulate  exchange  in hydrothermal vent plumes along the mid-Atlantic Ridge.</i> Global Biogeochemical Cycles.
 
 <b>Wang, W.</b>, Dickson, A., Stow M.A., Dellinger, M., Savage, P.S., Burton K., Hilton, R.G., Prytulak, J. (2024). <i>Rhenium elemental and isotopic variations at magmatic temperatures.</i> [Geochemical Perspective Letters](https://doi.org/10.7185/geochemlet.2402), 28, 48-53.
