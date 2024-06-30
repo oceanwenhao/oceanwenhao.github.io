@@ -6,13 +6,13 @@ author_profile: true
 ---
 
 <br>
-<b>Wang, W.</b>, Dickson, A., Dellinger, M., Burton, K., Clark, D., Helgi Eggertsson, G., Einarsdóttir, Í.E., Hilton, R., Ingimarsson, H., Gebrehiwot Mesfin, K., Prytulak, J. (In preparation) <i>Rhenium isotope variations in Icelandic groundwaters and hydrothermal systems.</i> 
+<b>Wang, W.</b>, Dickson, A., Dellinger, M., Burton, K., Clark, D., Helgi Eggertsson, G., Einarsdóttir, Í.E., Hilton, R., Ingimarsson, H., Gebrehiwot Mesfin, K., Prytulak, J. (In review) <i>Rhenium isotope variations in Icelandic groundwaters and hydrothermal systems.</i> Earth and Planetary Science Letters.
 
 Mellett T., Albers J.B., Santoro A.E., Salaun P., Resing J., <b>Wang W.</b>, Lough A.J.M., Tagliabue A., Lohan M., Bundy R.M., Buck K.N. (In review) <i>Organic iron-binding ligands mediate dissolved-particulate  exchange  in hydrothermal vent plumes along the mid-Atlantic Ridge.</i> Global Biogeochemical Cycles.
 
-<b>Wang, W.</b>, Dickson, A., Stow M.A., Dellinger, M., Savage, P.S., Burton K., Hilton, R.G., Prytulak, J. (In revision). <i>Limited rhenium isotope fractionation during magmatic processes at Hekla volcano, Iceland.</i> Geochemical Perspective Letters.
+<b>Wang, W.</b>, Dickson, A., Stow M.A., Dellinger, M., Savage, P.S., Burton K., Hilton, R.G., Prytulak, J. (2024). <i>Rhenium elemental and isotopic variations at magmatic temperatures.</i> Geochemical Perspective Letters.
 
-<b>Wang W.</b>, Lough A.J.M., Goring-Harford H., Flanagan O., Gonzalez-Santana D., Resing J., Lohan M., Connelly D.P., Tagliabue A., James R.H. (Accepted) <i>Fractionation of iron and chromium isotopes in hydrothermal plumes from the northern Mid-Atlantic Ridge.</i> Earth and Planetary Science Letters.
+<b>Wang W.</b>, Lough A.J.M., Goring-Harford H., Flanagan O., Gonzalez-Santana D., Resing J., Lohan M., Connelly D.P., Tagliabue A., James R.H. (2023) <i>Fractionation of iron and chromium isotopes in hydrothermal plumes from the northern Mid-Atlantic Ridge.</i> Earth and Planetary Science Letters(https://doi.org/10.1016/j.epsl.2023.118468).
 
 <b>Wang W.</b>, Goring-Harford H., Kunde K., Woodward E.M.S., Lohan M., Connelly D.P., James R.H. (2023) <i>Biogeochemical cycling of chromium and chromium isotopes in the sub-tropical North Atlantic Ocean.</i> [Frontiers in Marine Science](https://doi.org/10.3389/fmars.2023.1165304).
 
