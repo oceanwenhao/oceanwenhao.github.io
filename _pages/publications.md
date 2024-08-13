@@ -8,7 +8,7 @@ author_profile: true
 <br>
 Mellett T., Albers J.B., Santoro A.E., Salaun P., Resing J., <b>Wang W.</b>, Lough A.J.M., Tagliabue A., Lohan M., Bundy R.M., Buck K.N. (In preparation) <i>Organic iron-binding ligands mediate dissolved-particulate  exchange  in hydrothermal vent plumes along the mid-Atlantic Ridge.</i> Global Biogeochemical Cycles.
 
-Dickson A.J., Hilton R.G., Prytulak J., Minisini D., Eldrett J.S., Dellinger M., Stow M.A., <b>Wang W.</b> (in review) Rhenium isotopes record oxidative weathering intensity in sedimentary rocks. Geochemistry, Geophysics, Geosystems.
+Dickson A.J., Hilton R.G., Prytulak J., Minisini D., Eldrett J.S., Dellinger M., Stow M.A., <b>Wang W.</b> (in review) <i>Rhenium isotopes record oxidative weathering intensity in sedimentary rocks.</i> Geochemistry, Geophysics, Geosystems.
 
 <b>Wang, W.</b>, Dickson, A., Dellinger, M., Burton, K., Clark, D., Helgi Eggertsson, G., Einarsdóttir, Í.E., Hilton, R., Ingimarsson, H., Gebrehiwot Mesfin, K., Prytulak, J. (In revision) <i>Rhenium isotope variations in Icelandic groundwaters and hydrothermal systems.</i> Earth and Planetary Science Letters.
 
