@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am trained to be a trace metal geochemist; I am interested in applying novel isotope tools to the studies of oceanic processes. I took part in several collaborative researches including tracing hydrothermal input of iron to the oceans using iron isotopes, investigating chromium biogeochemical cycle in various environments, as well as assessing stable rhenium isotopes as paleo proxy. 
+I am trained to be a trace metal geochemist; I am interested in applying novel isotope tools to the studies of oceanic processes. I recently took part in several collaborative researches including tracing hydrothermal input of iron to the oceans using iron isotopes, investigating chromium biogeochemical cycle in various environments, as well as assessing stable rhenium isotopes as paleo proxy. 
 <br>
-<br>I have been working proactively within the GEOTRACES and the isotope geochemistry community. I obtained my PhD at the National Oceanography Centre, University of Southampton (advisor: Prof. Rachael James), pursued a postdoc at Royal Holloway University of London and am currently undertaking a Marie Curie postdoctoral fellowship at the University of Vienna. I will be joining Sun Yat-sun University for a tenure-track position in 2024.
+<br>I have been working proactively within the GEOTRACES and the isotope geochemistry community. I obtained my PhD at the National Oceanography Centre & University of Southampton, pursued a postdoc at Royal Holloway University of London and undertook a Marie Curie fellowship at the University of Vienna. I am an incoming PI (Associate Professor & doctoral advisor) at Sun Yat-sun University.
 <br>
 <br>Follow me on twitter [@oceanwenhao](https://x.com/oceanwenhao) for more updates :) 
 
