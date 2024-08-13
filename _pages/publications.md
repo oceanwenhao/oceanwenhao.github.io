@@ -6,9 +6,11 @@ author_profile: true
 ---
 
 <br>
-<b>Wang, W.</b>, Dickson, A., Dellinger, M., Burton, K., Clark, D., Helgi Eggertsson, G., Einarsdóttir, Í.E., Hilton, R., Ingimarsson, H., Gebrehiwot Mesfin, K., Prytulak, J. (In review) <i>Rhenium isotope variations in Icelandic groundwaters and hydrothermal systems.</i> Earth and Planetary Science Letters.
+Mellett T., Albers J.B., Santoro A.E., Salaun P., Resing J., <b>Wang W.</b>, Lough A.J.M., Tagliabue A., Lohan M., Bundy R.M., Buck K.N. (In preparation) <i>Organic iron-binding ligands mediate dissolved-particulate  exchange  in hydrothermal vent plumes along the mid-Atlantic Ridge.</i> Global Biogeochemical Cycles.
 
-Mellett T., Albers J.B., Santoro A.E., Salaun P., Resing J., <b>Wang W.</b>, Lough A.J.M., Tagliabue A., Lohan M., Bundy R.M., Buck K.N. (In review) <i>Organic iron-binding ligands mediate dissolved-particulate  exchange  in hydrothermal vent plumes along the mid-Atlantic Ridge.</i> Global Biogeochemical Cycles.
+Dickson A.J., Hilton R.G., Prytulak J., Minisini D., Eldrett J.S., Dellinger M., Stow M.A., <b>Wang W.<b> (in review) Rhenium isotopes record oxidative weathering intensity in sedimentary rocks. Geochemistry, Geophysics, Geosystems.
+
+<b>Wang, W.</b>, Dickson, A., Dellinger, M., Burton, K., Clark, D., Helgi Eggertsson, G., Einarsdóttir, Í.E., Hilton, R., Ingimarsson, H., Gebrehiwot Mesfin, K., Prytulak, J. (In revision) <i>Rhenium isotope variations in Icelandic groundwaters and hydrothermal systems.</i> Earth and Planetary Science Letters.
 
 <b>Wang, W.</b>, Dickson, A., Stow M.A., Dellinger, M., Savage, P.S., Burton K., Hilton, R.G., Prytulak, J. (2024). <i>Rhenium elemental and isotopic variations at magmatic temperatures.</i> [Geochemical Perspective Letters](https://doi.org/10.7185/geochemlet.2402), 28, 48-53.
 
