@@ -10,7 +10,7 @@ Mellett T., Albers J.B., Santoro A.E., Salaun P., Resing J., <b>Wang W.</b>, Lou
 
 <b>Wang W.</b>, Lough A.J.M., Resing J., Lohan M., Tagliabue A., James R.H. (In preparation) <i>Iron isotopes contrain the cycling the dissolved iron in the North Atlantic Ocean.</i> Geochimica et Cosmochimica Acta.
 
-<b>Wang W.</b>, Chrastný V., Hettler, J., Kistler A., Yadav A., Šebek O., Kumar N., Kraemer S. (In review) Chromium mobilisation by ligand complexation: the isotopic fingerprint as process tracer in oxic and anoxic environments.
+<b>Wang W.</b>, Chrastný V., Hettler, J., Kistler A., Yadav A., Šebek O., Kumar N., Kraemer S. (In review) <i>Chromium mobilisation by ligand complexation: the isotopic fingerprint as process tracer in oxic and anoxic environments.</i> 
 
 Dickson A.J., Hilton R.G., Prytulak J., Minisini D., Eldrett J.S., Dellinger M., Stow M.A., <b>Wang W.</b> (In press) <i>Rhenium isotopes record oxidative weathering intensity in sedimentary rocks.</i> Geochemistry, Geophysics, Geosystems.
 
